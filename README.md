@@ -60,7 +60,7 @@ Invoke it by name, or just ask for UI work ("polish this page", "why does this a
 
 Material derived from the Apache-2.0 sources (frontend-design, brand-guidelines, AI Elements) has been modified: it was condensed, reworded and reconciled with the house values. Their original license terms apply to those portions.
 
-The spacing-audit and Better Interface pages state no license. Their rules are paraphrased here and attributed above. Confirm with the authors before publishing this repo publicly.
+The spacing-audit and Better Interface pages state no license. Their rules are paraphrased and credited above. Authors: open an issue if you'd like changes or removal.
 
 ## License
 
